@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['cement_bag']
+
+roboflow:
+  workspace: pallet-dfrjz
+  project: counting-of-cement-bags
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pallet-dfrjz/counting-of-cement-bags/dataset/1

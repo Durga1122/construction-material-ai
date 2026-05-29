@@ -208,29 +208,6 @@ The system successfully:
 - Estimates material volume automatically
 - Provides real-time analysis through a web application
 
----
-
-## Limitations
-
-- Accuracy depends on image quality
-- Extreme viewing angles may reduce detection accuracy
-- Heavy occlusion can affect counting performance
-- Performance depends on the quality and diversity of training data
-
----
-
-## Future Enhancements
-
-- 3D stack reconstruction
-- Automatic height estimation
-- Support for multiple construction materials
-- PDF report generation
-- Database integration
-- Mobile application version
-- Drone-based inventory analysis
-
----
-
 ## Author
 
 Durga Ganapathi
